@@ -11,7 +11,7 @@ from typing import Any
 import requests
 from bs4 import BeautifulSoup
 
-from .config import BASE_URL, HEADERS
+from scripts.db.config import BASE_URL, HEADERS
 
 
 SCHEDULE_KEY_PATTERN = re.compile(r'ScheduleKey=(\d+)')
