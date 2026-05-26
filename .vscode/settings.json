@@ -1,0 +1,21 @@
+{
+    "sqltools.connections": [
+        {
+            "pgOptions": {
+                "ssl": {
+                    "rejectUnauthorized": false
+                }
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "db.qfmshiofngobktwfhltv.supabase.co",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "B_Stats_DB",
+            "group": "Supa",
+            "database": "postgres",
+            "username": "postgres",
+            "password": ".4pf[['wo<p-"
+        }
+    ]
+}
